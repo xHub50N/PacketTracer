@@ -1,3 +1,4 @@
+https://xhub50n.github.io/PacketTracer/Case_Study_Hubert_Bojda.pdf
 # Projekt zaliczeniowy: Sieci Komputerowe i Internet
 
 Projekt zaliczeniowy z przedmiotu **Sieci Komputerowe i Internet** dotyczy stworzenia lokalnej sieci komputerowej (LAN) z wykorzystaniem urządzeń firmy **Cisco**. Realizacja projektu odbyła się w środowisku symulacyjnym **Cisco Packet Tracer**, które umożliwia projektowanie, konfigurację i testowanie rozwiązań sieciowych.
